@@ -1,0 +1,5 @@
+1、仓库场景
+（1）Purchase：为仓库购买机器
+（2）Sale：为仓库销售机器
+（3）Stock：仓库机器数量
+（4）AbstractMediator：协调前三个单位进行协作
